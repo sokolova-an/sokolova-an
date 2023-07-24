@@ -18,7 +18,7 @@
 I'm Anastaiia, Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m a Senior Software Engineer with experience in different domains and environments
 
-- :seedling: Learning about crypto
+- :seedling: Learning about new technologies, crypto, investment and all other stuff that seems interesting to me
 
 - :zap: Love to travel 🤿 ⛰️ 🚴
 
